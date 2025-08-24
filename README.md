@@ -1,7 +1,5 @@
-## 📌 Android Tools: Canta & Shizuku  
-
 ### 🔹 Canta  
-- Open-source app remover  
+'- Open-source app remover  
 - Uninstalls system / pre-installed apps  
 - Works without root (needs Shizuku)  
 
