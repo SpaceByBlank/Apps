@@ -1,8 +1,7 @@
 ## Applications are - 
 
-→ 
-→ [Canta](#-Canta)
-[Shizuku](#-shizuku)
+_ [Canta](#-Canta)
+* [Shizuku](#-shizuku)
 
 ### 🔹 Canta  
 - Open-source app remover  
