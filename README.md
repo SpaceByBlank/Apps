@@ -1,11 +1,11 @@
+## 📌 Android Tools: Canta & Shizuku  
+
 ### 🔹 Canta  
-'- Open-source app remover  
+- Open-source app remover  
 - Uninstalls system / pre-installed apps  
 - Works without root (needs Shizuku)  
 
-**Download:**  
-- [GitHub](https://github.com/samolego/Canta)  
-- [Google Play](https://play.google.com/store/apps/details?id=io.github.samolego.canta)  
+[GitHub](https://github.com/samolego/Canta) | [Play Store](https://play.google.com/store/apps/details?id=io.github.samolego.canta)  
 
 ---
 
@@ -14,9 +14,7 @@
 - Runs via ADB or root  
 - Enables advanced tasks without full root  
 
-**Download:**  
-- [GitHub](https://github.com/RikkaApps/Shizuku)  
-- [Google Play](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)  
+[GitHub](https://github.com/RikkaApps/Shizuku) | [Play Store](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)  
 
 ---
 
