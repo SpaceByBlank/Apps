@@ -1,3 +1,8 @@
+# Applications are - 
+
+[Canta](### 🔹 Canta)
+
+
 ### 🔹 Canta  
 - Open-source app remover  
 - Uninstalls system / pre-installed apps  
