@@ -5,7 +5,7 @@
 * [LocalSend](#-localsend)
 
 ### 🔹 Canta  
-- Open-source app remover  
+- **Open-source app remover**  
 - Uninstalls system / pre-installed apps  
 - Works without root (needs Shizuku)  
 
@@ -14,7 +14,7 @@
 ---
 
 ### 🔹 Shizuku  
-- Grants apps system-level permissions  
+- **Grants apps system-level permissions**  
 - Runs via ADB or root  
 - Enables advanced tasks without full root  
 
@@ -23,7 +23,7 @@
 ---
 
 ### 🔹 LocalSend  
-- Free, open-source file and message sharing app  
+- **Free, open-source file and message sharing app**  
 - Works offline over local Wi-Fi  
 - Cross-platform: Android, iOS, Windows, macOS, Linux  
 - No account needed, instant sharing  
