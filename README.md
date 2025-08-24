@@ -1,6 +1,6 @@
-# Applications are - 
+## Applications are - 
 
-[Canta](### 🔹 Canta)
+[Canta](###Canta)
 
 
 ### 🔹 Canta  
