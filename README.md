@@ -1,6 +1,6 @@
 ## Applications are - 
 
-_ [Canta](#-Canta)
+* [Canta](#-Canta)
 * [Shizuku](#-shizuku)
 
 ### 🔹 Canta  
