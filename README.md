@@ -8,7 +8,7 @@
 ---
 
 ### 🔹 Shizuku  
-![Shizuku Icon](https://raw.githubusercontent.com/RikkaApps/Shizuku/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)  
+![Shizuku Icon](https://play-lh.googleusercontent.com/V3u-fuR6sczz2HwZp_wBCsPA4xjfp9u-ldIbl3kUP7jC4TLqjFhD1T0ln_BwK2k_MuU=w240-h480-rw)  
 
 - **GitHub:** [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)  
 - **Play Store:** [Shizuku on Google Play](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)  
