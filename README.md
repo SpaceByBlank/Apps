@@ -8,7 +8,8 @@
 ---
 
 ### Shizuku  
-![Shizuku Icon](<insert Shizuku image URL here>)  
+![Shizuku Icon](https://raw.githubusercontent.com/RikkaApps/Shizuku/master/app/src/main/ic_launcher-playstore.png)
+  
 - **GitHub:** [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)  
 - **Play Store:** [Shizuku on Google Play](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)  
 - **What it does:** A helper tool that grants apps system-level permissions via ADB (or root), so they can do advanced tasks without full rooting.  
